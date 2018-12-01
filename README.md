@@ -11,3 +11,7 @@ and then checking out its contests.
 
 You can check the special configuration needed for papis in the
 `.papis.config` file.
+
+## Example
+
+[![asciicast](https://asciinema.org/a/zDkBdJzUxOz5YmLqggdmt4LvE.svg)](https://asciinema.org/a/zDkBdJzUxOz5YmLqggdmt4LvE)
