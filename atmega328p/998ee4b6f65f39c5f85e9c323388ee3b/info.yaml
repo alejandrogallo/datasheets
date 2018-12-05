@@ -1,0 +1,20 @@
+brand: Microchip
+datasheets_urls:
+- http://datasheet.octopart.com/ATMEGA328P-PU-Microchip-datasheet-62316222.pdf
+- http://datasheet.octopart.com/ATMEGA328P-PU-Microchip-datasheet-68295846.pdf
+- http://datasheet.octopart.com/ATMEGA328P-PU-Atmel-datasheet-13381135.pdf
+- http://datasheet.octopart.com/ATMEGA328P-PU-Microchip-datasheet-14421303.pdf
+- http://datasheet.octopart.com/ATMEGA328P-PU-Microchip-datasheet-65729177.pdf
+- http://datasheet.octopart.com/ATMEGA328P-PU-Microchip-datasheet-8364063.pdf
+- http://datasheet.octopart.com/ATMEGA328P-PU-Microchip-datasheet-100453898.pdf
+- http://datasheet.octopart.com/ATMEGA328P-PU-Microchip-datasheet-101746195.pdf
+- http://datasheet.octopart.com/ATMEGA328P-PU-Atmel-datasheet-30457899.pdf
+- http://datasheet.octopart.com/ATMEGA328P-PU-Atmel-datasheet-10389530.pdf
+files:
+- tmptrojwi0k.pdf.pdf
+manufacturer: Microchip
+mpn: ATMEGA328P-PU
+octopart_url: https://octopart.com/atmega328p-pu-microchip-77760224
+symbol: ATMEGA328P-PU
+title: ATMEGA328P-PU; 8 bit Microcontroller AVR 20MHz 1; 32kb Flash; 2kb RAM; I2C
+  SPI 2
