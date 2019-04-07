@@ -1,0 +1,18 @@
+brand: Texas Instruments
+datasheets_urls:
+- https://octopart.com/click/track?ak=54289eb6&ct=datasheets&sig=0369a14&at=physicalpart&sid=370&ppid=414167&hlid=24883394
+- http://datasheet.octopart.com/INA101HP-Texas-Instruments-datasheet-5317948.pdf
+- http://datasheet.octopart.com/INA101HP-Texas-Instruments-datasheet-152308.pdf
+- http://datasheet.octopart.com/INA101HP-Texas-Instruments-datasheet-10253641.pdf
+- http://sigma.octopart.com/49249812/technical_drawing/Texas-Instruments-INA101HP.pdf
+- http://datasheet.octopart.com/INA101HP-Texas-Instruments-datasheet-9774.pdf
+- http://datasheet.octopart.com/INA101HP-Texas-Instruments-datasheet-114267.pdf
+- http://datasheet.octopart.com/INA101HP-Texas-Instruments-datasheet-8443419.pdf
+- http://datasheet.octopart.com/INA101HP-Texas-Instruments-datasheet-14139988.pdf
+files:
+- tmp66da7-jd.pdf
+manufacturer: Texas Instruments
+mpn: INA101HP
+octopart_url: https://octopart.com/ina101hp-texas+instruments-414167
+symbol: INA101HP
+title: Very High Accuracy Instrumentation Amplifier 14-PDIP -55 to 125
