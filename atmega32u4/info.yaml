@@ -1,0 +1,8 @@
+abstract: ATmega32U4
+symbol: ATmega32U4
+manufacturer: Microchip
+files:
+- atmel-7766-8-bit-avr-atmega16u4-32u4-summary.pdf
+keywords: AVR, ATmega, MegaAVR, Mega, Timer, PLL, PWM, USB, UART, SPI, I2C, Comparator,
+  ADC, JTAG, Crystal, 32.768 kHz crystal
+title: ATmega32U4 - 8-bit AVR Microcontrollers
