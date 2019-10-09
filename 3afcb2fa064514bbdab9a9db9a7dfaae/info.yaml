@@ -1,0 +1,6 @@
+files:
+- sn74ls138.pdf
+symbol: sn74x138 sn74x238
+title: 3-line to 8-line decoder/demultiplexer, inverting outputs
+url: http://www.ti.com/lit/gpn/sn74ls138
+tags: 238 138

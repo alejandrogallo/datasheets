@@ -1,0 +1,31 @@
+brand: ON Semiconductor
+datasheets_urls:
+- http://datasheet.octopart.com/LM393N-ON-Semiconductor-datasheet-162077.pdf
+- http://datasheet.octopart.com/LM393N-Fairchild-datasheet-6271.pdf
+- http://datasheet.octopart.com/LM393N-ON-Semiconductor-datasheet-8859080.pdf
+- http://datasheet.octopart.com/LM393N-ON-Semiconductor-datasheet-12542929.pdf
+- http://datasheet.octopart.com/LM393N-ON-Semiconductor-datasheet-86697771.pdf
+- http://datasheet.octopart.com/LM393N-ON-Semiconductor-datasheet-86691533.pdf
+- http://datasheet.octopart.com/LM393N-Fairchild-Semiconductor-datasheet-10979480.pdf
+- http://datasheet.octopart.com/LM393N-Fairchild-Semiconductor-datasheet-10284919.pdf
+- http://datasheet.octopart.com/LM393N-Fairchild-Semiconductor-datasheet-67878888.pdf
+- http://datasheet.octopart.com/LM393N-Fairchild-Semiconductor-datasheet-68612808.pdf
+- http://datasheet.octopart.com/LM393N...-Fairchild-Semiconductor-datasheet-68454884.pdf
+- http://datasheet.octopart.com/LM393N...-Fairchild-Semiconductor-datasheet-76740495.pdf
+- http://datasheet.octopart.com/LM393N...-Fairchild-Semiconductor-datasheet-81472209.pdf
+- http://datasheet.octopart.com/LM393N-ON-Semiconductor-datasheet-6354.pdf
+- http://datasheet.octopart.com/LM393N-ON-Semiconductor-datasheet-92087.pdf
+- http://datasheet.octopart.com/LM393N-Fairchild-datasheet-7600916.pdf
+- http://datasheet.octopart.com/LM393N-Fairchild-Semiconductor-datasheet-14043943.pdf
+- http://sigma.octopart.com/17345699/technical_drawing/Fairchild-Semiconductor-LM393N.pdf
+- http://datasheet.octopart.com/LM393N-Fairchild-Semiconductor-datasheet-67809884.pdf
+- http://datasheet.octopart.com/LM393N-Fairchild-Semiconductor-datasheet-68578585.pdf
+- http://datasheet.octopart.com/LM393N-Fairchild-Semiconductor-datasheet-78857606.pdf
+- http://datasheet.octopart.com/LM393N...-Fairchild-Semiconductor-datasheet-67356263.pdf
+files:
+- tmpfcqypsb5.pdf
+manufacturer: ON Semiconductor
+mpn: LM393N
+octopart_url: https://octopart.com/lm393n-on+semiconductor-15242
+symbol: LM393N
+title: LM393 Series Very Low Supply Current Low Power Dual Voltage Comparator - DIP8

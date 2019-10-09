@@ -1,0 +1,17 @@
+brand: STMicroelectronics
+datasheets_urls:
+- http://datasheet.octopart.com/LM723CN-STMicroelectronics-datasheet-8546378.pdf
+- http://datasheet.octopart.com/LM723CN-STMicroelectronics-datasheet-21828238.pdf
+- http://datasheet.octopart.com/LM723CN-STMicroelectronics-datasheet-11892.pdf
+- http://datasheet.octopart.com/LM723CN-STMicroelectronics-datasheet-604692.pdf
+- http://datasheet.octopart.com/LM723CN-STMicroelectronics-datasheet-49929.pdf
+- http://datasheet.octopart.com/LM723CN-STMicroelectronics-datasheet-9997199.pdf
+- http://datasheet.octopart.com/LM723CN-STMicroelectronics-datasheet-14169806.pdf
+files:
+- tmpusti4d0v.pdf
+manufacturer: STMicroelectronics
+mpn: LM723CN
+octopart_url: https://octopart.com/lm723cn-stmicroelectronics-526862
+symbol: LM723CN
+title: LM723 Series 150 mA 2 to 37 V Adjustable Through Hole Voltage Regulator - DIP-14
+tags: regulator
