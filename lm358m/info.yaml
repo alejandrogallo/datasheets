@@ -22,6 +22,7 @@ files:
 manufacturer: Texas Instruments
 mpn: LM358M
 octopart_url: https://octopart.com/lm358m-texas+instruments-2247654
+papis_id: b14a258b1fe216a58e15eaf5b5347b04
 symbol: LM358M
 tags: opamp
 title: Low Power Dual Operational Amplifier 8-SOIC 0 to 70

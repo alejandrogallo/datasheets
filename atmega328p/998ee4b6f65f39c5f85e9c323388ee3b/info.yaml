@@ -15,6 +15,7 @@ files:
 manufacturer: Microchip
 mpn: ATMEGA328P-PU
 octopart_url: https://octopart.com/atmega328p-pu-microchip-77760224
+papis_id: 065dbda6add92d519889ae381262583e
 symbol: ATMEGA328P-PU
 title: ATMEGA328P-PU; 8 bit Microcontroller AVR 20MHz 1; 32kb Flash; 2kb RAM; I2C
   SPI 2

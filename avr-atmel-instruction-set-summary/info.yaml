@@ -2,5 +2,6 @@ author: Unknown
 files:
 - iss.pdf
 manufacturer: atmel
+papis_id: 0d73e02a00175e375265c9237302da0f
 symbol: avr
 title: AVR Instruction set summary assembly
